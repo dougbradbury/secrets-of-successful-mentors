@@ -2,7 +2,7 @@
 
 This readme file lays out out a consistent structure for RailsConf 2021 workshops to follow.  We recommend you use this readme to as the basis of your workshop's repo.  Fill in the sections below as appropriate for your workshop.
 
-# <Workshop Name>
+# Your Workshop's Title
  
 Include the description for your workshop.  Typically this would be the same description that you used for the program page.  We do recommend you make it clear this is part of the conference and link back to the conference program page at <https://railsconf.com/program/workshops>.  A good description should include what the workshop covers, what the attendees will get out of the workshop, and the expected skill level of the attendees.
 
