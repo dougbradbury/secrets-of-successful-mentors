@@ -2,19 +2,19 @@
 
 This readme file lays out out a consistent structure for RailsConf 2021 workshops to follow.  We recommend you use this readme to as the basis of your workshop's repo.  Fill in the sections below as appropriate for your workshop.
 
-# Your Workshop's Title
+# The Secrets of Successful Mentors
  
-Include the description for your workshop.  Typically this would be the same description that you used for the program page.  We do recommend you make it clear this is part of the conference and link back to the conference program page at <https://railsconf.com/program/workshops>.  A good description should include what the workshop covers, what the attendees will get out of the workshop, and the expected skill level of the attendees.
+How do the best mentors operate? What makes them so effective? In this workshop, we will explore some counter-intuitive techniques that great mentors use in helping their apprentices learn fast and achieve extraordinary results. Learn how to give just the right learning challenge and just the right time and how to give feedback in a way that will actually be heard!
+
+We will explore how mentoring is fundamentally different than teaching. We will also look at some psychology and brain science to understand what makes learners tick and how they respond when we give them feedback.
 
 For RailsConf 2021, you'll want to link to the Discord channels that will be used, URLs to come.
 
 ## Prerequisites
 
-This section should list out anything that is required by attendees before the workshop starts in order to successfully participate in the workshop.  This is important in case they realize they can't fulfill the prerequisites and thus should reconsider attending.
+None
 
 
 ## Getting Ready
 
-This section includes the steps an attendee should take to get fully prepared for the start of the workshop.  If the workshop will be executing code from a starting app, please include all the installation steps to get up and running, including the versions of any languages or tools needed, such as Ruby or Node/NPM.  If there is any homework before the start, list that out too.
-
-Thanks! Making sure the attendees are prepared goes a long way to having a successfull workshop.
+You'll need three of something palm-sized for this workshop. The objects should not be breakable. You will drop them many times.
