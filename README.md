@@ -19,3 +19,15 @@ Get a working headset / mic and video camera ready
 This workshop will take place in this [zoom room](https://zoom.us/j/98873637458?pwd=ZEpLd2lRaEhoM0tHZHRsTEZyL1hDZz09).
 On Discord at #secrets-of-successful-mentors
 
+## The Workbook
+
+  - [Secret 1](01.md)
+  - [Secret 2](02.md)
+  - [Secret 3](03.md)
+  - [Secret 4](04.md)
+  - [Secret 5](05.md)
+  - [Secret 6](06.md)
+  - [Secret 7](07.md)
+  - [Secret 8](08.md)
+  - [Secret 9](09.md)
+  - [Secret 10](10.md)
