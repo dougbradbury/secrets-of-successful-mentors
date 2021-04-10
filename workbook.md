@@ -31,19 +31,19 @@
 
 ### Name a mentor that you have had in your life.  Would you consider them an expert? How much more did they know than you?
 
-![Proximal Development](images/s05-01-proximal_development.png)
+![Proximal Development](images/s05-01-proximal-development.png?raw=true)
 
 
 ## Secret  5: Successful Mentors:___________________________________________________
 
 ### What does a really good day at work look like for you?
 
-![Model of Flow](images/s05-01-flow.png)
+![Model of Flow](images/s05-01-flow.png?raw=true)
 
 ### What should you do when you observe anxiety in the learner?
 ### What should you do when you observe boredom in the learner?
 
-![Skill Acquisition](images/s05-02-skill-acquisition.png)
+![Skill Acquisition](images/s05-02-skill-acquisition.png?raw=true)
 
 
 ## Secret 6 & 7
