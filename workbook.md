@@ -1,17 +1,57 @@
-## Secret 1 
+## Secret 1: Successful Mentors:____________________________________________________
 
 ### Why is Mentoring important to you?
 
 ### How has being mentored impacted you?
 
-## Secret 2
+## Secret  2: Successful Mentors:___________________________________________________
 
-## Secret 5
+|Teaching             |     Mentoring       |
+|---------------------|---------------------|
+|Behavior             |                     |
+|Knowledge            |                     |
+|Regurgitate          |                     |
+|Certify              |                     |
+|Group                |                     |
+|-------------------------------------------|
 
-### Think of a time when you were anxious about your work. What was lacking?
-### Think about a time when you’ve been bored with your work. What was lacking?
+## Secret  3: Successful Mentors:___________________________________________________
+
+### Think Historically:  How are some of the most famous / well known mentors or gurus?
+
+### 'Answer' these questions with another question:
+
+  - What should I name this controller?
+  - Is it ok if I don’t write a test for this?
+  - Which ORM is the best one for me to use on this product?
+  - What color do I make this button?
+  - Which callback should I use here?
+
+## Secret  4: Successful Mentors:___________________________________________________
+
+### Name a mentor that you have had in your life.  Would you consider them an expert? How much more did they know than you?
+
+![Proximal Development](images/s05-01-proximal_development.png)
+
+
+## Secret  5: Successful Mentors:___________________________________________________
+
+### What does a really good day at work look like for you?
+
+![Model of Flow](images/s05-01-flow.png)
+
+### What should you do when you observe anxiety in the learner?
+### What should you do when you observe boredom in the learner?
+
+![Skill Acquisition](images/s05-02-skill-acquisition.png)
+
 
 ## Secret 6 & 7
+## Secret  6: Successful Mentors:___________________________________________________
+## Secret  7: Successful Mentors:___________________________________________________
+## Secret  8: Successful Mentors:___________________________________________________
+## Secret  9: Successful Mentors:___________________________________________________
+## Secret 10: Successful Mentors:___________________________________________________
 
 ### Think about some feedback you recently received. Describe the feeback in as much detail as you can remember.
 
