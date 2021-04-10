@@ -4,8 +4,6 @@ How do the best mentors operate? What makes them so effective? In this workshop,
 
 We will explore how mentoring is fundamentally different than teaching. We will also look at some psychology and brain science to understand what makes learners tick and how they respond when we give them feedback.
 
-For RailsConf 2021, you'll want to link to the Discord channels that will be used, URLs to come.
-
 ## Prerequisites
 
 None
@@ -13,4 +11,11 @@ None
 
 ## Getting Ready
 
-You'll need three of something palm-sized for this workshop. The objects should not be breakable. You will drop them many times.
+Clone or fork this repository and use it as your workbook throughout.
+Get a working headset / mic and video camera ready
+
+## Conntecting:
+
+This workshop will take place in this [zoom room](https://zoom.us/j/98873637458?pwd=ZEpLd2lRaEhoM0tHZHRsTEZyL1hDZz09).
+On Discord at #secrets-of-successful-mentors
+
