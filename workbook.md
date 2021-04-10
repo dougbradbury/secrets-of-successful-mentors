@@ -31,8 +31,8 @@
 
 ### Name a mentor that you have had in your life.  Would you consider them an expert? How much more did they know than you?
 
-![Proximal Development](images/s05-01-proximal-development.png?raw=true)
-
+![Proximal Development](images/s04-01-proximal-development.png?raw=true)
+ 
 
 ## Secret  5: Successful Mentors:___________________________________________________
 
